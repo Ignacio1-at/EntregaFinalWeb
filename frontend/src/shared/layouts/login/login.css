@@ -1,0 +1,31 @@
+.text-light {
+    color: #450358 !important;
+}
+.bg-dark {
+    background-color: #53d2db !important;
+}
+.bg-dark-x {
+    background-color: #fff;
+}
+.btn {
+    min-height: 3.125rem;
+    font-weight: 600;
+}
+.form-control {
+    min-height: 3.125rem;
+    line-height: initial;
+}
+.form-control:focus {
+    background-color: #fff;
+    outline: none;
+}
+.img-1 {
+    background-image: url('../../assets/images/fondologin.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.img-2 {
+    background-image: url('../../assets/images/fondonaturaleza.jpg');
+    background-size: cover;
+    background-position: center;
+}
